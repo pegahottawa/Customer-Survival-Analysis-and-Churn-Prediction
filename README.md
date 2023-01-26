@@ -10,7 +10,7 @@ In this project I aim to perform customer survival analysis and build a model wh
 
 Some of the insights ideas I consider:
 
-1. Using customer data to identify and target customers who are at a high risk of
+1. Using customer data to identify and target customers who are at a high and medium risk of
 churning to counter this effect with relevant customer service initiatives.
 
 2. Analyzing the effects of promotional campaigns and loyalty programs on customer
